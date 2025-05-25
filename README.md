@@ -4,6 +4,8 @@
 
 This is a mobile-first frontend application built as part of an assignment. It includes a Landing Page, Sign In, Sign Up, and Profile Page.
 
+**Live App** [PopX Frontend](https://popx-frontend-lyart.vercel.app)
+
 ## Features
 
 - Landing page for introduction
